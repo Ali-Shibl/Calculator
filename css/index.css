@@ -1,0 +1,8 @@
+.calc{
+    width: 350px;
+    height: auto;
+ 
+}
+button{
+    box-shadow: 1px 3px 5px rgb(26, 62, 80);
+}
